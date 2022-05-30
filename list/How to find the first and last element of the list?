@@ -1,0 +1,5 @@
+num=[1,2,3,4,5]
+#returns first element
+print (num[0])#Output:1
+#returns last element
+print (num[-1])
