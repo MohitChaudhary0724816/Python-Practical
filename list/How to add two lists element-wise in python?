@@ -1,0 +1,6 @@
+num1=[1,2,3]
+num2=[4,5,6]
+num3=[]
+for i,j in zip(num1,num2):
+    num3.append(i+j)
+print (num3)
