@@ -1,0 +1,4 @@
+n=[1,2,3,4,5]
+#inserting element 99 at index 1
+n.insert(1,99)
+print (n)
